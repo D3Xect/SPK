@@ -37,7 +37,7 @@ https://www.postman.com/downloads/
 6. Choose New Workspace > Choose HTTP
 ![image](https://github.com/D3Xect/SPK/assets/114375108/0f04b492-319e-47df-9862-bc38c2481b9a)
 
-7. Paste http > Choose POST > body > raw > choose JSON > insert body request > press SEND
+7. Paste http > Choose HTTP Method POST > body > raw > choose JSON > insert body request > press SEND
 ![image](https://github.com/D3Xect/SPK/assets/114375108/16129d62-53f1-4f42-84bb-482b45e7eeef)
 
 
