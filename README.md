@@ -12,7 +12,7 @@ https://www.postman.com/downloads/
 
 # SPK_model
 1. Open folder Dyllan Nicholas Nathaniel_SPK_model > Dyllan Nicholas Nathaniel_SPK (or any kind of folder that contains spk_models files)
-2. Run CMD in this folder's dirertory that contains main.py file etc. (for VS Code user, go to terminal, and follow step 3 and 4 down bellow)
+2. Run CMD in this folder's directory that contains main.py file etc. (for VS Code user, go to terminal, and follow step 3 and 4 down bellow)
 3. install requirements with command 'pip install -r requirements.txt'
 4. type 'python main.py saw' & 'python main.py wp'
 ![image](https://github.com/D3Xect/SPK/assets/114375108/6257baca-453e-442a-aa8d-787d44826e64)
@@ -23,7 +23,7 @@ https://www.postman.com/downloads/
 
 # SPK_web
 1. Open Folder spk_dyllan-main (or any kind of folder that contains spk_models files)
-2. Run CMD in this folder's dirertory that contains main.py file etc. (for VS Code user, go to terminal, and follow step 3 and 4 down bellow)
+2. Run CMD in this folder's directory that contains main.py file etc. (for VS Code user, go to terminal, and follow step 3 and 4 down bellow)
 3. install requirements with command 'pip install -r requirements.txt'
 4. Run the app with command 'python main.py'
 ![image](https://github.com/D3Xect/SPK/assets/114375108/d2312662-47a4-4e6b-b433-33e01459818d)
