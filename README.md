@@ -22,7 +22,8 @@ https://www.postman.com/downloads/
 # Screenshot SPK_model (via VS Code) :
 ![image](https://github.com/D3Xect/SPK/assets/114375108/9c93d9c8-03b9-447c-b59d-789db510436b)
 #Screenshot SPK_model (via CMD) :
-![image](https://github.com/D3Xect/SPK/assets/114375108/078d4709-7bb6-4839-8782-d42bfe3d1b5a)
+![image](https://github.com/D3Xect/SPK/assets/114375108/91a70119-b926-4264-bc8d-48c097920853)
+
 
 
 # SPK_web
